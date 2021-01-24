@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/About_us.png</file>
+        <file>images/Bold.png</file>
+        <file>images/Color.png</file>
+        <file>images/Copy.png</file>
+        <file>images/Cut.png</file>
+        <file>images/Exit.png</file>
+        <file>images/Italic.png</file>
+        <file>images/New_File.png</file>
+        <file>images/notepad.ico</file>
+        <file>images/notepad_widget.png</file>
+        <file>images/Open_File.png</file>
+        <file>images/Paste.png</file>
+        <file>images/Redo.png</file>
+        <file>images/Save as.png</file>
+        <file>images/Save.png</file>
+        <file>images/Select_All.png</file>
+        <file>images/Underline.png</file>
+        <file>images/Undo.png</file>
+        <file>images/Word Wrap.png</file>
+        <file>images/Zoom in.png</file>
+        <file>images/Zoom out.png</file>
+    </qresource>
+</RCC>
